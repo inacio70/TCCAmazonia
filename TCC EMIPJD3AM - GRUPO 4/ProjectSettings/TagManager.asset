@@ -6,6 +6,7 @@ TagManager:
   tags:
   - vida
   - ganharVida
+  - dormir
   layers:
   - Default
   - TransparentFX
